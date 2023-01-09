@@ -1,0 +1,19 @@
+C:\Users\Mustafa DAĞHAN\Desktop\otomasyon\otomasyon new\otomasyon new\obj\Debug\otomasyon new.csproj.AssemblyReference.cache
+C:\Users\Mustafa DAĞHAN\Desktop\otomasyon\otomasyon new\otomasyon new\obj\Debug\otomasyon new.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mustafa DAĞHAN\Desktop\otomasyon\otomasyon new\otomasyon new\bin\Debug\otomasyon new.exe.config
+C:\Users\Mustafa DAĞHAN\Desktop\otomasyon\otomasyon new\otomasyon new\bin\Debug\otomasyon new.exe
+C:\Users\Mustafa DAĞHAN\Desktop\otomasyon\otomasyon new\otomasyon new\bin\Debug\otomasyon new.pdb
+C:\Users\Mustafa DAĞHAN\Desktop\otomasyon\otomasyon new\otomasyon new\obj\Debug\otomasyon_new.FrmAdminGiris.resources
+C:\Users\Mustafa DAĞHAN\Desktop\otomasyon\otomasyon new\otomasyon new\obj\Debug\otomasyon_new.FrmAnaForm.resources
+C:\Users\Mustafa DAĞHAN\Desktop\otomasyon\otomasyon new\otomasyon new\obj\Debug\otomasyon_new.FrmMusteriler.resources
+C:\Users\Mustafa DAĞHAN\Desktop\otomasyon\otomasyon new\otomasyon new\obj\Debug\otomasyon_new.FrmOdalar.resources
+C:\Users\Mustafa DAĞHAN\Desktop\otomasyon\otomasyon new\otomasyon new\obj\Debug\otomasyon_new.frmyenimüşteri.resources
+C:\Users\Mustafa DAĞHAN\Desktop\otomasyon\otomasyon new\otomasyon new\obj\Debug\otomasyon_new.Properties.Resources.resources
+C:\Users\Mustafa DAĞHAN\Desktop\otomasyon\otomasyon new\otomasyon new\obj\Debug\otomasyon new.csproj.GenerateResource.cache
+C:\Users\Mustafa DAĞHAN\Desktop\otomasyon\otomasyon new\otomasyon new\obj\Debug\otomasyon new.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa DAĞHAN\Desktop\otomasyon\otomasyon new\otomasyon new\obj\Debug\otomasyon new.exe
+C:\Users\Mustafa DAĞHAN\Desktop\otomasyon\otomasyon new\otomasyon new\obj\Debug\otomasyon new.pdb
+C:\UYGULAMALAR\otomasyon\otomasyon new\otomasyon new\obj\Debug\otomasyon new.csproj.AssemblyReference.cache
+C:\UYGULAMALAR\otomasyon\otomasyon new\otomasyon new\obj\Debug\otomasyon new.csproj.SuggestedBindingRedirects.cache
+C:\UYGULAMALAR\otomasyon\otomasyon new\otomasyon new\obj\Debug\otomasyon new.exe
+C:\UYGULAMALAR\otomasyon\otomasyon new\otomasyon new\obj\Debug\otomasyon new.pdb
